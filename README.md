@@ -4,7 +4,7 @@
 - **Roll No:** 2026201062
 - **Name:** Mahit Govil
 - **Program:** MTech CSE
-- **Repository:** https://github.com/your-username/notes-app
+- **Repository:** https://github.com/mahitgovil/notes-app
 
 ## Execution Guide
 
